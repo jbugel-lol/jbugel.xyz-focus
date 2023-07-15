@@ -1,12 +1,12 @@
-Sure, here's an updated README.md file with the preview information added:
-
 # 🎯 Focus Helper with Timer and Lo-Fi Music
 
 This project is a simple focus helper that includes a timer ⏰ to help users stay productive and focused while working. The focus helper updates the title of the HTML document with the elapsed time and includes a lo-fi music video 🎵 on YouTube to help users stay focused.
 
+Please note that the lo-fi music video player is intentionally made transparent to minimize distractions while using the focus helper. As a result, it is necessary to enable autoplay in your browser for the video to play automatically. You may need to adjust your browser settings to allow autoplay on this website.
+
 ## Usage 🚀
 
-To use the focus helper, simply open the `index.html` file in your web browser. The timer will start automatically and update the title of the HTML document with the elapsed time. You can listen to the lo-fi music video on YouTube by clicking the "play" button on the video player.
+To use the focus helper, simply open the `index.html` file in your web browser. The timer will start automatically and update the title of the HTML document with the elapsed time.
 
 Users can easily customize the focus helper by modifying the HTML and CSS files and changing the YouTube video source.
 
