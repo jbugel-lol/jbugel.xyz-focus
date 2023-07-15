@@ -1,6 +1,8 @@
+Sure, here's an updated README.md file with the preview information added:
+
 # 🎯 Focus Helper with Timer and Lo-Fi Music
 
-This project is a simple focus helper that includes a timer ⌛️ to help users stay productive and focused while working. The focus helper updates the title of the HTML document with the elapsed time and includes a lo-fi music video 🎵 on YouTube to help users stay focused.
+This project is a simple focus helper that includes a timer ⏰ to help users stay productive and focused while working. The focus helper updates the title of the HTML document with the elapsed time and includes a lo-fi music video 🎵 on YouTube to help users stay focused.
 
 ## Usage 🚀
 
@@ -17,6 +19,10 @@ This project includes the following files:
 - `clock.js`: the JavaScript file that updates the clock display on the HTML document
 - `antiDistraction.js`: the JavaScript file that disables right-click and text selection on the entire page
 - `timer.js`: the JavaScript file that updates the title of the HTML document with the elapsed time
+
+## Preview 🔍
+
+A live preview of the focus helper is available at [jbugel.xyz/focus ↗](https://jbugel.xyz/focus). 
 
 ## License 📜
 
