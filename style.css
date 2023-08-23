@@ -4,6 +4,8 @@ body {
   align-items: center;
   height: 100vh;
   background-color: black;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 @font-face {
   font-family: "Date Stamp";
@@ -42,18 +44,24 @@ body {
 
 #github-link {
   position: fixed;
-  bottom: 10px;
-  left: 10px;
+  bottom: 15px;
+  left: 15px;
   opacity: 0.05;
   transition: opacity 0.6s;
+  filter: invert(100%);
 }
 
 #github-link:hover {
   opacity: 1;
 }
 
-#github-link img {
-  filter: invert(100%);
+#github-wiki {
+  opacity: 0.05;
+  transition: opacity 0.6s;
+}
+
+#github-wiki:hover {
+  opacity: 1;
 }
 
 .material-icons-outlined {
