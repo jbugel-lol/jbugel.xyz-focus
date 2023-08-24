@@ -8,7 +8,7 @@ body {
 }
 @font-face {
   font-family: "Date Stamp";
-  src: url("./Date\ Stamp.woff") format("woff");
+  src: url("../assets/fonts/Date Stamp.woff") format("woff");
 }
 
 #clock {
