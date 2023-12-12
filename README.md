@@ -15,10 +15,10 @@ Users can easily customize the focus helper by modifying the HTML and CSS files 
 This project includes the following files:
 
 - `index.html`: the main HTML file that includes the focus helper and the YouTube video
-- `style.css`: the CSS file that styles the HTML document
-- `clock.js`: the JavaScript file that updates the clock display on the HTML document
-- `antiDistraction.js`: the JavaScript file that disables right-click and text selection on the entire page
-- `timer.js`: the JavaScript file that updates the title of the HTML document with the elapsed time
+- `styles/style.css`: the CSS file that styles the HTML document
+- `scripts/clock.js`: the JavaScript file that updates the clock display on the HTML document
+- `scrips/antiDistraction.js`: the JavaScript file that disables right-click and text selection on the entire page
+- `scripts/timer.js`: the JavaScript file that updates the title of the HTML document with the elapsed time
 
 ## Preview 🔍
 
