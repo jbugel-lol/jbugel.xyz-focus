@@ -1,3 +1,5 @@
+# ⚠️ This Repository is now archived because I will move it to [my Website v2 Repository](https://github.com/jbugel-lol/website/tree/main/focus) ⚠️
+
 # 🎯 Focus Helper with Timer and Lo-Fi Music
 
 This project is a simple focus helper that includes a timer ⏰ to help users stay productive and focused while working. The focus helper updates the title of the HTML document with the elapsed time and includes a lo-fi music video 🎵 on YouTube to help users stay focused.
